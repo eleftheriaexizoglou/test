@@ -1,6 +1,5 @@
 # test
 test1
-<!DOCTYPE html>
 <html>
   <head><title>TEST1</title>
   </head>
